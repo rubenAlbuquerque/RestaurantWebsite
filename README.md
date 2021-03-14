@@ -1,6 +1,5 @@
 # RestaurantWebsite
 
-https://rubenalbuquerque.github.io/RestaurantWebsite/
 
 RestaurantWebsite This project was developed as part of the HTML, CSS and Javascript course for Web Developers (Johns Hopkins University). 
 
